@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!-- 
+	Usage:
+
+	To localize the description, use the following format for the description element.
+	<description>
+	<text xml:lang="en">English App description goes here</text>
+	<text xml:lang="fr">French App description goes here</text>
+	<text xml:lang="ja">Japanese App description goes here</text>
+	</description>
+
+	To localize the name, use the following format for the name element.
+	<name>
+	<text xml:lang="en">English App name goes here</text>
+	<text xml:lang="fr">French App name goes here</text>
+	<text xml:lang="ja">Japanese App name goes here</text>
+	</name>
+-->
+<application xmlns="http://ns.adobe.com/air/application/17.0">
+  <id>com.decryptify</id>
+  <versionNumber>1.0.1</versionNumber>
+  <filename>Decryptify</filename>
+  <description/>
+  <name>Decryptify</name>
+  <copyright/>
+  <initialWindow>
+    <content>container.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>true</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>direct</renderMode>
+    <autoOrients>false</autoOrients></initialWindow>
+  <icon>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </icon>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <iPhone>
+    <InfoAdditions><![CDATA[
+  <key>UIPrerenderedIcon</key>
+  <true/>
+  <key>UIDeviceFamily</key>
+  <array>
+    <string>1</string>
+    <string>2</string>
+  </array>
+]]></InfoAdditions>
+    <requestedDisplayResolution>high</requestedDisplayResolution>
+  </iPhone>
+  <android>
+    <manifestAdditions><![CDATA[<manifest>
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+</manifest>]]></manifestAdditions>
+  </android>
+  <versionLabel></versionLabel>
+  <supportedLanguages>en</supportedLanguages>
+</application>

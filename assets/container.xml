@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="container.png">
+	<!-- Created with Adobe Flash Professional version 14.0.0.110 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="button blue down0000" x="532" y="870" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button blue up0000" x="726" y="1354" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button green down0000" x="774" y="1112" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button green up0000" x="0" y="1160" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button orange down0000" x="242" y="1354" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button orange up0000" x="484" y="1354" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button red down0000" x="290" y="870" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button red up0000" x="774" y="870" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button yellow down0000" x="290" y="1112" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="button yellow up0000" x="532" y="1112" width="240" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="dot0000" x="870" y="734" width="72" height="72" pivotX="0" pivotY="0"/>
+	<SubTexture name="filler0000" x="992" y="0" width="4" height="4" pivotX="0" pivotY="0"/>
+	<SubTexture name="frame left0000" x="870" y="0" width="50" height="336" pivotX="0" pivotY="0"/>
+	<SubTexture name="frame middle0000" x="974" y="0" width="10" height="336" pivotX="0" pivotY="0"/>
+	<SubTexture name="frame right0000" x="922" y="0" width="50" height="336" pivotX="0" pivotY="0"/>
+	<SubTexture name="info icon0000" x="0" y="1402" width="180" height="180" pivotX="0" pivotY="0"/>
+	<SubTexture name="light off0000" x="870" y="338" width="120" height="120" pivotX="0" pivotY="0"/>
+	<SubTexture name="light on0000" x="870" y="460" width="120" height="120" pivotX="0" pivotY="0"/>
+	<SubTexture name="pointer off0000" x="870" y="582" width="129" height="74" pivotX="21.25" pivotY="2.75"/>
+	<SubTexture name="pointer on0000" x="870" y="658" width="129" height="74" pivotX="21.25" pivotY="2.75"/>
+	<SubTexture name="screen shine0000" x="0" y="0" width="0" height="0" pivotX="0" pivotY="0" frameX="-107374182" frameY="-107374182" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="shaded bar0000" x="986" y="0" width="4" height="6" pivotX="0" pivotY="0"/>
+	<SubTexture name="symbol00000" x="0" y="0" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol10000" x="290" y="0" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol20000" x="580" y="0" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol30000" x="0" y="290" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol40000" x="290" y="290" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol50000" x="580" y="290" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol60000" x="0" y="580" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol70000" x="290" y="580" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol80000" x="580" y="580" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="symbol90000" x="0" y="870" width="288" height="288" pivotX="12" pivotY="12"/>
+	<SubTexture name="vent0000" x="0" y="1596" width="483" height="33" pivotX="0" pivotY="0"/>
+</TextureAtlas>
