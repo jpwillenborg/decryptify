@@ -9,4 +9,4 @@ A free playable version can be found on Google Play and the Apple App Store.
 
 
 
-Copyright 2016 JP Willenborg.
+Copyright 2017 JP Willenborg.
